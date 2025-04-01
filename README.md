@@ -12,7 +12,7 @@ I had no prior experience with either Cocos Creator or the Typescript language, 
 
 ## Resources
 I mostly tried to learn everything I used by experimentation, and I think Cocos is intuitive enough for me to have been able to do most of the project without a lot of external resources. 
-For other learning material and consultation I had the Cocos Forums and Documentation always open, I tried to use ChatGPT eventually but noticed a lack of familiarity with Cocos, so I continued using the documentation for most learning resources.
+For other learning material and consultation I had the Cocos Forums and Documentation always open, I tried to use ChatGPT eventually but noticed that GPT wasn't very familiar with Cocos, and the responses weren't really useful, so I continued using the documentation for most of the project.
 The sprites and backgrounds were all designed and drawn by myself specifically for this project.
 
 ![image](https://github.com/user-attachments/assets/03c933b7-4bc9-458f-b5bd-0281a18893a6)
