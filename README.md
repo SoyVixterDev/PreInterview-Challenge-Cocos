@@ -1,7 +1,7 @@
 # PreInterview-Challenge-Cocos
 
 ## Introduction
-For this challenge I decided to make a simple side-view player controller similar to Beat-Em-Up! games, the player can control a character and move within a bridge and collect apples that rain from above, I created all assets by hand using the pixelart software Aseprite.
+For this challenge I decided to make a simple side-view player controller similar to Beat-Em-Up! games, the player can control a character with WASD and move within a bridge and collect apples that rain from above, I created all assets by hand using the pixelart software Aseprite.
 
 ## Demo Video
 
